@@ -1,6 +1,11 @@
 # QMS
 Queue Management System
 
-##Curent Status
+## Curent Status
 
-Conceptual and Database Design
+Initiate Conceptual and Database Design
+
+## Next
+
+Full PM setup
+
